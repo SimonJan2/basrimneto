@@ -21,7 +21,7 @@ basarim-neto/
 │   ├── hero-bg.jpg             # תמונת רקע לסקשן הראשי
 │   ├── reservation-bg.jpg      # תמונת רקע לאזור ההזמנות
 │   ├── about/                  # תמונות לאזור "אודות"
-│   │   └── about-main.jpg
+│   │   └── restaurant-counter.jpg
 │   │
 │   ├── menu/                   # תמונות לפריטי תפריט
 │   │   ├── starters/           # תמונות למנות פתיחה
